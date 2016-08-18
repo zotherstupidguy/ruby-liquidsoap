@@ -1,3 +1,5 @@
+require 'minitest/autorun'
+require 'minitest/spec'
 require './lib/liquidsoap/socket'
 
 describe Liquidsoap::Socket do
